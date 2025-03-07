@@ -54,7 +54,6 @@ public class productController {
     public String deleteProduct(@PathVariable Long id) {
       product product = productRepository.findById(id)
       .orElseThrow(() -> new RuntimeException("Product not found with id: " + id));
-      
       productRepository.deleteById(id);
       return "the product with Id: "+ id + " has been deleted successfully " + product;
     }
