@@ -4,9 +4,8 @@
 
 **Just a CRUD, i'll show you how to execute the code**
 
+i was testing so my database is based on a model of a product, not too complicated, but good enough to practice and show what im capable of
 
-
- 
 
 *~~I made this with postman, tableplus, docker, postgresql, hibernate, spring boot, and the core was all made in java.~~*
 
