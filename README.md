@@ -38,6 +38,8 @@ first of all you have to make sure you have in the path folder a .env file with 
 
 *get also has a method to call the whole database.*
 
+it is some kind of mvc but i didnt made the frontend
+
 
  
 
