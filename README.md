@@ -21,19 +21,16 @@ first of all you have to make sure you have in the path folder a .env file with 
 
     docker-compose down
 
->  to start the process, spring boot will initialize and the program
-> will run, using postman you will be able to use the methods served by
-> the api-REST.
-> 
+  to start the process, spring boot will initialize and the program
+ will run, using postman you will be able to use the methods served by
+ the api-REST.
+
 >  -  get
 >  - post
 >  - put
->  - delete
-> 
-> **some of them has  a specific method to be modified by id on postman:**
-> 
->    
-> 
+>  - delete 
+ **some of them has  a specific method to be modified by id on postman:**
+ 
 >  - get
 >  - put
 >  - delete
